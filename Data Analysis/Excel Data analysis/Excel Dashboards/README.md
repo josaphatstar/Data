@@ -1,4 +1,4 @@
-# Projets de Tableaux de Bord Excel 📊
+# Projets :  Tableaux de Bord Excel 📊
 
 ## 📌 Aperçu du Projet
 Collection de tableaux de bord Excel interactifs démontrant des compétences en analyse et visualisation de données.
